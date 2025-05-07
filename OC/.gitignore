@@ -1,0 +1,12 @@
+*._*
+**/*._*
+Resources/*._*
+**/*._*/
+Resources/._Audio
+Resources/._Image
+Resources/._Font
+/Resources/._Label
+**/Resources/._Audio
+**/Resources/._Image
+**/Resources/._Font
+**/Resources/._Label
