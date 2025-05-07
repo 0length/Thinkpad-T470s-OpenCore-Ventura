@@ -9,6 +9,7 @@
     Intel Wifi AC8265
     Intel I219
     Synaptic SMBus
+More https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_T470s/ThinkPad_T470s_Spec.PDF
     Opencore 1.0.4
 
 
