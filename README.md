@@ -1,5 +1,5 @@
 # Thinkpad T470s OpenCore Ventura
-![image](https://github.com/user-attachments/assets/87cef7a4-0745-4e97-ad9a-f0e89e6b86ae)
+![Jepretan Layar 2025-05-07 pukul 15 38 58](https://github.com/user-attachments/assets/0ff0f6de-fcd3-4a69-b650-723998f2d62f)
 
 ## Spesifikasi :
 
